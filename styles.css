@@ -9,10 +9,17 @@ body {
 #content {
     display: block;
     margin-left: auto;
-    margin-right: auto
+    margin-right: auto;
 }
 
-header {
+p{
+    color: green;
+}
+
+h2 {
+    font-style: bold;
+    font-size: 75px;
+    color: red;
 	
 }
 
@@ -20,4 +27,3 @@ footer {
 	font-style: italic;
 	font-size: 90%;
 }
-
